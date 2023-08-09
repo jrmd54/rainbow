@@ -8,7 +8,7 @@ let s:rainbow_conf = {
 \	'operators': '_,_',
 \	'contains_prefix': 'TOP',
 \	'parentheses_options': '',
-\	'parentheses': ['start=/(/ end=/)/ fold', 'start=/\[/ end=/\]/ fold', 'start=/{/ end=/}/ fold'],
+\	'parentheses': ['start=/(/ end=/)/ fold', 'start=/\[/ end=/\]/ fold', 'start=/{/ end=/}/ fold', 'start=/</ end=/>/ fold'],
 \	'separately': {
 \		'*': {},
 \		'markdown': {
